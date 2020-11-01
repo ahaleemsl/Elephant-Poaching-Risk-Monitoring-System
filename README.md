@@ -26,4 +26,6 @@
 ### Screenshots of Human and Elephant Detection Program's Output:
 
 <p align="center">
-  <kbd><img src = https://github.com/akhilaku/Elephant-Poaching-Risk-Monitoring-System/blob/master/Images/ABKooGiyhC.jpg width = 750, height = 500></kbd></p>
+  <kbd><img src = https://github.com/akhilaku/Elephant-Poaching-Risk-Monitoring-System/blob/master/Images/ABKooGiyhC.jpg width = 750, height = 500></kbd>
+  <br>
+  <kbd><img src = https://github.com/akhilaku/Elephant-Poaching-Risk-Monitoring-System/blob/master/Images/iFTqx7bfRg.jpg width = 750, height = 500></kbd></p>
