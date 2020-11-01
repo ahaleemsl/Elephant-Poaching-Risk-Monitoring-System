@@ -21,3 +21,9 @@
   <kbd><img src = https://github.com/akhilaku/Elephant-Poaching-Risk-Monitoring-System/blob/master/Images/2020-10-10-13-29-10-865.jpg width = 300, height = 600></kbd>
 </p>
   
+**Detection of elephants and humans is done with the help of an efficient Machine Learning(ML) model. Machine Learning(ML) model is mainly programmed using the Python programming language and TensorFlow framework.**
+
+### Screenshots of Human and Elephant Detection Program's Output:
+
+<p align="center">
+  <kbd><img src = https://github.com/akhilaku/Elephant-Poaching-Risk-Monitoring-System/blob/master/Images/ABKooGiyhC.jpg width = 750, height = 500></kbd></p>
