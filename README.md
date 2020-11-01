@@ -12,3 +12,12 @@
 <p align="center">
   <kbd><img src=https://github.com/akhilaku/Elephant-Poaching-Risk-Monitoring-System/blob/master/Images/Working-Circle.jpg width = 750, height = 500></kbd></p>
 
+**Once if humans are detected in the areas near Elephants, an alert message with the captured image and location will be sent to the wildlife rangers' phone**
+
+### Screenshots of received alert Messages:
+
+<p align="center">
+  <kbd><img src = https://github.com/akhilaku/Elephant-Poaching-Risk-Monitoring-System/blob/master/Images/20201010_133506.jpg width = 300, height = 600></kbd>
+  <kbd><img src = https://github.com/akhilaku/Elephant-Poaching-Risk-Monitoring-System/blob/master/Images/2020-10-10-13-29-10-865.jpg width = 300, height = 600></kbd>
+</p>
+  
