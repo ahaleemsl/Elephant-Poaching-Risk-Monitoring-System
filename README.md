@@ -40,11 +40,22 @@
 
 **The image classification model has been developed using Edge Impulse Studio. The various steps involved in the Edge Impulse Studio for building an efficient ML model includes:**
 
-- Devices Edge
-- Data Acquisition
-- Impulse Design
-- Retrain Model
-- Live Classification
-- Model Testing
-- Versioning
-- Deployment
+- **Devices Edge**
+- **Data Acquisition**
+- **Impulse Design**
+- **Retrain Model**
+- **Live Classification**
+- **Model Testing**
+- **Versioning**
+- **Deployment**
+
+### Sending SMS with captured Image and Location
+
+**Here I have used an online platform called Twilio (twilio.com). Twilio allows software developers to programmatically make and receive phone calls, send and receive text messages, and perform other communication functions using its web service APIs for free for a limited amount of times. In most of the Surveillance cameras used for wildlife-security uses GPS either you can use the maps or geolocation APIs to share the location or we can know the captured image's location using the image's information.**
+
+## Project Summary
+**According to WWF, even after the ban on international trade of ivory, in Africa and other countries, elephants are still being poached in large numbers. More than Thousands of elephants are being killed every year for their ivory tusks. The ivory is often carved into ornaments, jewelry, and plays an important role in the black market.**
+
+**In this current world of Machine Learning(ML), Artificial Intelligence(AI), and other valuable technologies, everything is very easy to develop and deploy. So only most of the problems can be solved by using technologies. The prevention of elephant poaching is possible by using these technologies. My project is an example of using technology effectively for saving or protecting the gentle giants in their natural habitats.**
+
+
