@@ -30,3 +30,21 @@
 <hr>
 <p align="center">
   <kbd><img src = https://github.com/akhilaku/Elephant-Poaching-Risk-Monitoring-System/blob/master/Images/iFTqx7bfRg.jpg width = 750, height = 500></kbd></p>
+<p align="center">
+  <kbd><img src = https://github.com/akhilaku/Elephant-Poaching-Risk-Monitoring-System/blob/master/Images/o4D1ZnD7L6.png = 500, height = 500></kbd></p>
+<hr>
+
+## Edge Impulse Studio
+
+**Edge Impulse Studio is used for creating an efficient ML model to classify and detect the presence of humans in the wildlife. Using the Edge Impulse Studio the model can be easily converted to a Lite model that can be also used on Android applications with the help of TensorFlow Lite. Also, it helps to interface and deploy model with any hardware components like Arduino, Xilinx, Raspberry, OpenMV, Web Assembly, and also on the web applications by converting it into supporting libraries. Version control and Deployment are very easy using Edge Impulse Studio.**
+
+**The image classification model has been developed using Edge Impulse Studio. The various steps involved in the Edge Impulse Studio for building an efficient ML model includes:**
+
+- Devices Edge
+- Data Acquisition
+- Impulse Design
+- Retrain Model
+- Live Classification
+- Model Testing
+- Versioning
+- Deployment
